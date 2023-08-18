@@ -288,8 +288,8 @@ body {
 @media (min-width: 1400px) {
     .innerTxt {
         width: 34.29vw;
-        margin: 0 auto 2.29vw 11.2vw;
-        font-size: 3em;
+        margin: 0 auto 1vw 11.2vw;
+        font-size: 1em;
     }
 }
 
@@ -326,7 +326,7 @@ body {
 
 @media (min-width: 1400px) {
     .innerImg {
-        margin: 0 auto 5.71vw auto;
+        margin: 0 auto 1vw auto;
         width: 24vw;
     }
 }
