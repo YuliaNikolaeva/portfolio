@@ -315,6 +315,12 @@ body {
     opacity: .9;
 }
 
+@media (min-width: 1400px) {
+    .innerTxtDist  {
+        margin-top: 5vw;
+    }
+}
+
 .innerImg {
     background-repeat: no-repeat;
     background-size: contain;
@@ -1002,8 +1008,8 @@ body {
 
 @media (min-width: 1400px) {
     .linksBox {
-        width: 12.86vw;
-        margin: 0 auto 1.71vw auto;
+        width: 14.86vw;
+        margin: 2vw auto 1.71vw auto;
     }
 }
 

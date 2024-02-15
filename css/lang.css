@@ -1,0 +1,54 @@
+.langCover {
+    position: absolute;
+    z-index: 1000;
+    right: 50px;
+    top: 30px;
+}
+
+@media (min-width: 960px) and (max-width: 1156px) {
+    .langCover {
+        top: 103px;
+    }
+}
+
+@media (min-width: 960px) and (max-width: 756px) {
+    .langCover {
+        top: 103px;
+    }
+}
+
+.langBox {
+    font-family: var(--f-head);
+    font-size: 23px;
+    font-weight: 600;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: right;
+    align-items: baseline;
+}
+
+.langLink {
+    text-decoration: none;
+    color: rgb(209, 205, 194);
+}
+
+.ua {
+    margin-right: 10px;
+}
+
+.langActiv {
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(239, 178, 9);
+}
+
+.landForSelect {
+    cursor: pointer;
+}
+
+.landForSelect:hover {
+    text-decoration: underline;
+}
+
+
+

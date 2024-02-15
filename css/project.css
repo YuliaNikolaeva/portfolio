@@ -25,7 +25,7 @@ body {
 }
 
 .portfoioHead {
-    font-size: 100px;
+    font-size: 87px;
     line-height: 120px;
 }
 
@@ -463,8 +463,10 @@ body {
     }
 }
 
-/* ---------------- */
 .ihp1 {
     background-image: url(../img/portfolio/p1/bg-p1.jpeg);
     filter: blur(4.5px);
 }
+
+/* Language */
+
